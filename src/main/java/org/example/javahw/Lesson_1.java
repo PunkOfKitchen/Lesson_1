@@ -21,6 +21,7 @@ public class Lesson_1 {
         }
     }
 
+
     public static void printColor() {
         int value = -1;
         if (value <= 0) {
