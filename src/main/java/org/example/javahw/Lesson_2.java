@@ -106,7 +106,6 @@ public class Lesson_2 {
         }
     }
 
-    @Contract(pure = true)
     public static int [] createArray(int len, int initialValue) {
         int[] result = new int[len];
         for (int i = 0; i < len; i++) {
